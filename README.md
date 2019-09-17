@@ -1,3 +1,10 @@
+## notice
+the service is down since Dec. 2017, cause ntu sports center website is upgraded :(
+for more informaiton, please visit https://pe.ntu.edu.tw/rent/#/site_inq
+
+## demo
+http://140.112.91.208/~iownthegame/court/lookup.php?mon=2017-12
+
 ## lookup
 lookup.php, lookupm.php
 
