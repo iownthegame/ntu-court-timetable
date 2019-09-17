@@ -1,0 +1,100 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, "微軟正黑體", sans-serif;
+}
+form {
+margin-top:50px;
+margin-bottom:0px;
+text-align:center;
+}
+#alert{
+text-align:center;
+}
+#icon{
+    padding-top:10px;
+    padding-bottom:10px;
+	//top:40px;
+    text-align:center;
+    //position:fixed;
+    right:0;
+    left:0;
+    background-color:white;
+}
+.table-body-box{
+ height: 100%;    
+ overflow:auto;
+}
+.table1{
+    //margin-top:80px;
+top:80px;
+position:fixed;
+//overflow:hidden;
+
+    background-color:white;
+}
+.table2{
+    margin-top:120px;
+}
+ table {
+//     table-layout: fixed;
+  //   width: 100%;
+ }
+ //th,td {
+   //  overflow: hidden;
+ }
+thead {
+}
+.new {
+    /*color:blue;*/
+}
+
+.girl {
+    /*color:red;*/
+}
+
+.central {
+    /*color:green;*/
+}
+
+#day {
+    background-color:#fcf8e3;
+}   
+
+#noon {
+    
+}
+
+#night {
+    background-color:#fcf8e3;
+}
+
+.CSIE {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black ;
+    color:#ff8000;
+}
+.GIRLS {
+    color:#df01d7;
+}
+.BOYS {
+    color:blue;
+}
+#submit {
+    background-color: #ccc;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius:6px;
+    color: #fff;
+    font-family: 'Oswald';
+    font-size: 20px;
+    text-decoration: none;
+    cursor: poiner;
+     border:none;
+}
+
+
+
+#submit:hover {
+    border: none;
+    background:red;
+    box-shadow: 0px 0px 1px #777;
+
+}
